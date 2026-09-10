@@ -11,9 +11,6 @@ labels:
 summary: "A JavaScript project for an early ICS class, where a user can play through a randomly generated 6x6 Sudoku puzzle"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-
-
 While classic Sudoku is 9x9, 6x6 Sudoku plays by the same rule, but with fewer numbers and on a smaller grid. 
 
 <hr>
