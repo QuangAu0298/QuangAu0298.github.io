@@ -24,7 +24,8 @@ Using a simple wave function collapse algorithm to determine whether the player 
   my 6x6 Sudoku project would first randomly place a few valid numbers into various slots that would be immutable, and allow 
   the player to explore different solutions to the puzzle with the remaining slots. Due to the random nature of how a puzzle 
   was initialized however, it was possible for it to be unsolvable due to having a valid placement of initial numbers that 
-  would block numbers in other slots. 
+  would block numbers in other slots. For more information on the wave function collapse, this [YouTube video by Coding Quest](https://www.youtube.com/watch?v=qRtrj6Pua2A)
+  provides a detailed explanation,
 
 </pre>
 
