@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Sudoku But 7,8, and 9 are missing"
+title: "Sudoku But 7, 8, and 9 are missing"
 date: 2022
 published: true
 labels:
