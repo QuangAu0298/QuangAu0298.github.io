@@ -4,7 +4,7 @@ type: project
 image: img/sudoku_sq.jpg
 title: "Sudoku But 7, 8, and 9 are missing"
 date: 2022
-published: true
+published: false
 labels:
   - JavaScript
   - InteliJ IDEA
