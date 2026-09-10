@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/sudoku_sq.jpg
 title: "Sudoku But 7, 8, and 9 are missing"
 date: 2022
 published: true
@@ -19,7 +19,7 @@ Online and in newspapers, one will find countless Sudoku puzzles, most likely wi
   fit a specific solution. As some who have played before it is possible for a number to adhere to all the rules but result 
   in no solution because it blocks a specific number from another slot.
 
-<pre>
+
 Using a simple wave function collapse algorithm to determine whether the player places a valid number into an empty slot, 
   my 6x6 Sudoku project would first randomly place a few valid numbers into various slots that would be immutable, and allow 
   the player to explore different solutions to the puzzle with the remaining slots. Due to the random nature of how a puzzle 
@@ -27,7 +27,6 @@ Using a simple wave function collapse algorithm to determine whether the player 
   would block numbers in other slots. For more information on the wave function collapse, this [YouTube video by Coding Quest](https://www.youtube.com/watch?v=qRtrj6Pua2A)
   provides a detailed explanation,
 
-</pre>
 
 What makes this project interesting besides how it allows that player to change the solution with every choice, is how the 
   entire game would run as its own object that could expose certain properties to communicate with different interfaces. 
@@ -37,4 +36,3 @@ What makes this project interesting besides how it allows that player to change 
   
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
