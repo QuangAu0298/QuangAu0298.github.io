@@ -11,7 +11,7 @@ labels:
   - Careerpath
 ---
 <p align="center">
-  <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/ftsam_houston.jpg">
+  <img width="320px" class="rounded float-start pe-4" src="../img/essay_imgs/ftsam_houston.jpg">
 </p>
 
 <br>
@@ -26,7 +26,7 @@ After returning from military training at Fort Sam Houston, Texas, I had always 
 <br>
 
 <p align="center">
-  <img width="250px" class="rounded float-start pe-4" src="../img/essay_imgs/struggle_img.jpeg">
+  <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/struggle_img.jpeg">
 </p>
 
 ## Difficulties
@@ -37,7 +37,7 @@ I will be the first to admit my deficiencies and being headstrong is certainly o
 <br>
 
 <p align="center">
-  <img width="250px" class="rounded float-start pe-4" src="../img/essay_imgs/blender_logo.jpeg">
+  <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/blender_logo.jpeg">
 </p>
 
 ## For the Future
