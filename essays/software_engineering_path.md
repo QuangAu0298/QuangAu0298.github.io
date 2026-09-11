@@ -32,4 +32,4 @@ I will be the first to admit my deficiencies and being headstrong is certainly o
 So far in my ICS 314 and 311 courses I’ve encountered problems and moments where I've thought I would certainly fail the courses, especially when it comes to working in groups and navigating new environments like Github or writing essays in a style that is new to me. My hope is that I can pass my classes and get out with a bachelors, but more so I hope to gain the skillset required of me when I go back into the work force, as a programmer working on a team. An ideal career would be one where I can work on software, like Blender, that empowers artists.
 
 ## AI Usage
-Gemini was used to fix any capitalization errors, misspellings, and improper grammar. All content was authored by Au Quang.
+Gemini was used to find and fix any capitalization errors, misspellings, and improper grammar. All content was authored by Au Quang.
