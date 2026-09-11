@@ -11,7 +11,7 @@ labels:
   - Careerpath
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/ftsam_houston.jpg" align="center">
 
 ## Why I started
 After returning from military training at Fort Sam Houston, Texas, I had always planned on becoming an engineer or working in the field of construction in some manner. It was during a mandatory class while working towards my engineering degree that I discovered an interest in programming and software. ICS 101 at Honolulu Community College showed me how accessible coding could actually be and by the end of the course, I had come to regard the process of coding as an artform, where a variety of different solutions could be designed to solve the same problem. I had always held an interest in the arts and animation but had to choose a more reliable and lucrative career path, which is where software development offered a chance to do both; potentially earning a high salary while also scratching that creative itch. After that semester, I chose to change majors and began to pursue the art of programming.
