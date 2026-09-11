@@ -10,12 +10,12 @@ labels:
   - InteliJ IDEA
 summary: "A JavaScript project for an early ICS class, where a user can play through a randomly generated 6x6 Sudoku puzzle"
 ---
-
+<p align="center">
 <div class="text-center p-5">
   <img width="200px" src="../img/project_imgs/sudoku_rules.webp" class="img-thumbnail" >
   <img width="200px" src="../img/project_imgs/sudoku_solved.png" class="img-thumbnail" >
 </div>
-
+</p>
 While classic Sudoku is 9x9, 6x6 Sudoku plays by the same rule, but with fewer numbers and on a smaller grid. 
 
 <hr>
