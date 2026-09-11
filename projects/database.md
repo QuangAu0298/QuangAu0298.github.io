@@ -11,7 +11,13 @@ labels:
 summary: "A C++ program made for ICS212, implementing a Database"
 ---
 
+<p align="center">
+  <img src="img/project_imgs/db_linkedlist_info.jpg" width="200">
+</p>
+
 This project was a simple implementation of a database, written in C++ that emphasized proper handling of memory on the heap. The database was organized as a linked list and sorted by an identification number unique to each record in the database.
+
+
 
 <hr>
 
