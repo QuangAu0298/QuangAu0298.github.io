@@ -12,7 +12,7 @@ labels:
 summary: "Introductory ICS class project, that challenged my ability to design and troubleshoot code"
 ---
 <p align="center">
-  <img width="250px" src="../img/project_imgs/bestfit_anim.gif" class="img-thumbnail" >
+  <img width="320px" src="../img/project_imgs/bestfit_anim.gif" class="img-thumbnail" >
 </p>
 
 My first coding was a polynomial best fit line generator, where given a CSV file of x and y values, our program implemented an algorithm that would calculate the best values of coefficients for a polynomial function to align with the data set given. I remember this project being my first extensive coding project that took me 3 days of constant coding and debugging to complete. 
