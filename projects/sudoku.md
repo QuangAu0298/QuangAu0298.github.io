@@ -12,7 +12,7 @@ summary: "A JavaScript project for an early ICS class, where a user can play thr
 ---
 
 <div class="text-center p-5">
-  <img width="200px" src="../img/project_imgs/sudoku_rule.webp" class="img-thumbnail" >
+  <img width="200px" src="../img/project_imgs/sudoku_rules.webp" class="img-thumbnail" >
   <img width="200px" src="../img/project_imgs/sudoku_solved.png" class="img-thumbnail" >
 </div>
 
