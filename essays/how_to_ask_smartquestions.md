@@ -12,7 +12,7 @@ labels:
 
 More likely than not you have come across at least one problem that you just did not know how to tackle and you decided to throw the question into Google. Currently with AI, those questions can get a fairly detailed answer that may or may not be the solution you were looking for. Before the advent of artificial intelligence and models like Gemini or ChatGPT, people had to pray that someone in the past decade had the exact same problem and asked in a Reddit thread or Stack Overflow that got a solution in the replies. If you were not blessed to have such coincidences, the next best thing was to ask the question yourself and hope for a swift and helpful response. You do so but none show.
 
-<div> 
+<div class="text-center p-5" align="center">
   <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/questioning_img.jpg">
 </div>
 
