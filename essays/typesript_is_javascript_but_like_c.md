@@ -39,9 +39,8 @@ It all depends on the purpose being served, and in my case as a student already 
 
 
 
-
-
-
+<br>
+<br>
 
 <hr>
 
