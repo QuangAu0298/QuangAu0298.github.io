@@ -34,7 +34,7 @@ The highest scored answer to this post gives a concise reply stating that it is 
 
 ## A Not so Smart Question
 
-On the opposite end of the spectrum with a score of -22, this user posted an [error that occurred while running Android app, citing a failure to gain read and write permissions](https://stackoverflow.com/questions/76641553/errno-13-permission-denied-storage-emulated-0-download-site-html) 
+On the opposite end of the spectrum with a score of -22, this user posted an [error that occurred while running their Android app, citing a failure to gain read and write permissions](https://stackoverflow.com/questions/76641553/errno-13-permission-denied-storage-emulated-0-download-site-html) 
 
 In their post title they only provided the error code and not a question or description on what exactly they needed help with. Inside the post itself they display their code and at the bottom, go on to explain that they are having issues gaining file access permissions with their app on the Android 11 system. Although they do provide a snippet of the code where the issue appears to occur, they also go on to plead for help and ask for a solution to achieve a read-write permission prompt similar to other apps that they linked to in their post. In the replies, they are informed that Android 11 cannot achieve their specific result and given alternatives, to which the original poster responds with requests for people to look more carefully at their code. 
 
