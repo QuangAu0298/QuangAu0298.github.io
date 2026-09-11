@@ -37,6 +37,8 @@ In their post title they only provided the error code and not a question or desc
 
 In terms of "smart" questions, this post showcases pleading for a specific solution, improper grammar in some sentences, an unclear description of the problem they are trying to solve. Moreover, when some users give them an answer, the original poster is insistent for someone to give them a specific solution. In the replies of an answer, some people are simply poking fun by commenting nonsense such as “VvvvvvvvvvVivek“ which may be a sign of frustration with the user asking for help. 
 
+<hr>
+
 ## Study First!
 
 The main takeaway from knowing how to ask a question on Q&A forums is to try solving it yourself before running for help. Searching through publicly available resources before asking a forum, shows not only investment and care in solving the problem but respect for other people’s time, especially in the case where the answer was nestled deep inside documentation or a user manual. Above all, showing a decent level of respect for the people providing the answers to hundreds if not thousands of questions a day can go a long way towards ensuring the response is productive to your goals.
