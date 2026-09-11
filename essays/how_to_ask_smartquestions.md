@@ -37,4 +37,4 @@ The main takeaway from knowing how to ask a question on Q&A forums is to try sol
 
 
 ## AI Usage
-Gemini was used to fix any capitalization errors, misspellings, and improper grammar. All content was authored by Au Quang.
+Gemini was used to find and fix any capitalization errors, misspellings, and improper grammar. All content was authored by Au Quang.
