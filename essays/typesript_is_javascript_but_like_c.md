@@ -32,5 +32,9 @@ As someone who is more interested in the graphical and optimized aspects of codi
 
 It all depends on the purpose being served, and in my case as a student already struggling to keep up with my other courses, I would say that TypeScript feels just as conducive to my learning in ICS as JavaScript or Python have in previous classes. With regards to the athletic programming exercises where time is more restrictive, I’m very thankful to be writing in TypeScript rather than in C or C++.
 
-## AI Usage
+
+<hr>
+
+<h3>AI Usage</h3>
+
 Gemini was used to find and fix any capitalization errors, misspellings, and improper grammar. All content was authored by Au Quang.
