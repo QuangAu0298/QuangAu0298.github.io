@@ -43,5 +43,6 @@ The main takeaway from knowing how to ask a question on Q&A forums is to try sol
 
 <hr>
 
-**AI Usage**
+<h3>AI Usage<h3>
+
 Gemini was used to find and fix any capitalization errors, misspellings, and improper grammar. All content was authored by Au Quang.
