@@ -12,10 +12,11 @@ labels:
 
 More likely than not you have come across at least one problem that you just did not know how to tackle and you decided to throw the question into Google. Currently with AI, those questions can get a fairly detailed answer that may or may not be the solution you were looking for. Before the advent of artificial intelligence and models like Gemini or ChatGPT, people had to pray that someone in the past decade had the exact same problem and asked in a Reddit thread or Stack Overflow that got a solution in the replies. If you were not blessed to have such coincidences, the next best thing was to ask the question yourself and hope for a swift and helpful response. You do so but none show.
 
+
 <div class="text-center p-5" align="center">
   <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/questioning_img.jpg">
 </div>
-
+<hr>
 
 ## What went wrong?
 
@@ -24,6 +25,7 @@ One must remember that forums like Reddit or Stack Overflow are composed of othe
 <div class="text-center p-5" align="center">
   <img width="250px" class="rounded float-start pe-4" src="../img/essay_imgs/stackoverflow.png">
 </div>
+<hr>
 
 ## A Smart Question
 
@@ -32,6 +34,8 @@ As outlined in the article, How To Ask Questions The Smart Way, by Eric Raymond,
 The title provides a concise description of the subject and in the post, the author provides the code they wrote to demonstrate the phenomena, as well as the same code written in a different language to check if it was a language dependent occurrence. The original poster provided the runtime duration for each instance, shared their own thoughts on what may be happening after investigating it on their own, and at the end focused the question on what underlying processes are responsible for the differences in runtime. 
 
 The highest scored answer to this post gives a concise reply stating that it is the result of branch prediction where a program will attempt to guess which conditional statement will be true or false ahead of time, and if the guess was incorrect, the program takes more time to rollback its processes and correct its course. The answer itself is detailed with images, analogies to better express the concept of branch prediction, and a visualization of how the array is handled by the conditional statement. Both the inquiry and response for this post demonstrate smart ways to ask and answer a question.
+
+<hr>
 
 ## A Not so Smart Question
 
