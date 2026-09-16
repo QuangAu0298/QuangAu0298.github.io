@@ -10,9 +10,9 @@ labels:
   - Computer Science
   - Careerpath
 ---
-<p align="center">
+<div class="text-center p-5" align="center">
   <img width="320px" class="rounded float-start pe-4" src="../img/essay_imgs/ftsam_houston.jpg">
-</p>
+</div>
 
 <br>
 <br>
@@ -25,9 +25,9 @@ After returning from military training at Fort Sam Houston, Texas, I had always 
 <br>
 <br>
 
-<p align="center">
+<div class="text-center p-5" align="center">
   <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/struggle_img.jpeg">
-</p>
+</div>
 
 ## Difficulties
 I will be the first to admit my deficiencies and being headstrong is certainly one of them. Having jumped into a separate major and into a field I had zero experience or interest in prior to taking ICS 101, I certainly struggled to keep up with the class work at times. However, I’ve come to appreciate the discomfort and anxiety that comes with every lecture, assignment and exam as a sign of growth. If I'm struggling then that means I’m learning something new and difficult which means that if I can grasp it, I'll know that I must have improved. In every course I’ve taken in ICS I was able to struggle and overcome my deficiencies.
@@ -36,9 +36,9 @@ I will be the first to admit my deficiencies and being headstrong is certainly o
 <br>
 <br>
 
-<p align="center">
+<div class="text-center p-5" align="center">
   <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/blender_logo.jpeg">
-</p>
+</div>
 
 ## For the Future
 So far in my ICS 314 and 311 courses I’ve encountered problems and moments where I've thought I would certainly fail the courses, especially when it comes to working in groups and navigating new environments like Github or writing essays in a style that is new to me. My hope is that I can pass my classes and get out with a bachelors, but more so I hope to gain the skillset required of me when I go back into the work force, as a programmer working on a team. An ideal career would be one where I can work on software, like Blender, that empowers artists.
