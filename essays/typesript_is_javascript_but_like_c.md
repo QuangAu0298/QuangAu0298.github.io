@@ -8,7 +8,7 @@ published: true
 labels:
   - TypeScript
 ---
-<div class="text-center p-5" align="center">
+<div align="center">
   <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/c_vs_javascript.jpg">
 </div>
 <hr>
@@ -30,7 +30,7 @@ As of now, I still feel some friction with the language but I’m certain, as it
 <br>
 <br>
 
-<div class="text-center p-5" align="center">
+<div align="center">
   <img width="300px" class="rounded float-start pe-4" src="../img/essay_imgs/typescript_info.webp">
 </div>
 <hr>
