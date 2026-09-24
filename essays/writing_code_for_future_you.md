@@ -14,7 +14,7 @@ labels:
 Short Answer: The next guy that has to fix it, and chances are it's going to be the same guy, several days after they’ve already forgotten how it worked.
 
 <div align="center">
-  <img width="320px" src="../img/codingstandards/tech_debt_img.jpg">
+  <img width="360px" src="../img/codingstandards/tech_debt_img.jpg">
 </div>
 <hr>
 
@@ -25,6 +25,7 @@ Software and coding, in the simplest description possible, are a series of instr
 
 From the perspective of programmers, this sentiment can also be found, especially when dealing with code written by another programmer from years ago that all other code depends on, but no one on the current development team actually understands what it does or how it works. Consequently, workarounds and temporary fixes end up adding to this problem of [technical debt](https://www.ibm.com/think/topics/technical-debt). This is where coding standards come in as a tool to protect the accessibility of a codebase and enhance not only the development of a project but the experience of the people working on it too.
 
+<hr>
 
 <h1 align="center">Accessibility</h1>
 <p>
@@ -37,7 +38,7 @@ Coding standards help ensure every module, class, and function built can be easi
 <h1 align="center">Efficiency and Career Development</h1>
 
 <div align="center">
-  <img width="320px" src="../img/codingstandards/tech_debt_info_img.jpg">
+  <img width="300px" src="../img/codingstandards/tech_debt_info_img.jpg">
 </div>
 
 <p>
@@ -45,7 +46,7 @@ Effective communication is conducive to the scalability and efficiency of a proj
 </p>
 
 <div align="center">
-  <img width="320px" src="../img/codingstandards/career_dev_img.jpg">
+  <img width="300px" src="../img/codingstandards/career_dev_img.jpg">
 </div>
 
 <p>
@@ -57,7 +58,7 @@ With the highly competitive landscape of software engineering and the occasional
 <h1 align="center">Lone Wolf Mentality</h1>
 
 <div align="center">
-  <img width="320px" src="../img/codingstandards/wolf_meme_img_wtext.png">
+  <img width="380px" src="../img/codingstandards/wolf_meme_img_wtext.png">
 </div>
 
 <p>
