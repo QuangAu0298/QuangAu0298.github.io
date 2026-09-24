@@ -64,6 +64,11 @@ With the highly competitive landscape of software engineering and the occasional
 <p>
 As someone who has mostly written code for individual projects and personal tools, I have developed my own loose coding standards, which I view as both a benefit and a detriment. For personal projects, having a less restrictive standard for my code enables quicker prototyping and debugging, while still keeping the coding style somewhat uniform throughout a project. However, coming back to that code weeks into the future always requires some extra effort to read through my comments (if I chose to make them) or to walk through what each line does in the specific function I’m working on. Part of the joy in coding is creating a function or class and watching it finally work, which is where my sloppy coding standards optimize the ease with which I write code rather than keeping things neat and easy to fix. These projects will never be shipped to the public, so whatever technical debt is accrued in them may not be directly consequential to my career as a software developer. However, doing so builds bad habits that I may bring into future projects. Such projects will undoubtedly involve other developers, which means those bad habits become their problem as well. 
 </p>
+
+<div align="center">
+  <img width="320px" src="../img/codingstandards/bad_habit_img.jpg">
+</div>
+
 <p>
 Despite recognizing all the benefits of having strict coding standards, I believe that in the future, I will most likely continue to write my personal code with little to no restrictions simply due to the ease and speed with which I can produce it. However, I don’t believe that should stop me from breaking bad coding habits when in a more professional setting. In a similar fashion to how I’ve written my notes in classes, depending on whether or not someone else will have to view and understand them, I can be far messier and much more disorganized, using made-up abbreviations and drawings in order to get information down quickly when I don't have the expectation of sharing what I’ve written. Then whenever I did need to share my messy notes, I would spend some time consolidating all the important points, reorganizing, and cleaning everything up for others to be able to comprehend. Similarly with code, I could use one coding style to achieve the “content” then use another to improve the “presentation” of that content.
 </p>
@@ -74,10 +79,6 @@ In a real commercial coding project, I could test and experiment with the functi
 <hr>
 
 <h1 align="center">What to do</h1>
-
-<div align="center">
-  <img width="320px" src="../img/codingstandards/bad_habit_img.jpg">
-</div>
 
 <p>
 Though this strategy attempts to allow the use of both styles of coding (standardized and nonstandardized), it is very possible for bad habits to develop that could impact professional projects. In that case, I would be better off using strict coding standards from the start and avoiding the translation altogether. Ultimately, the best method will be one that enables efficiency in the development process and allows me to be the best programmer I can be.
