@@ -18,15 +18,15 @@ Short Answer: The next guy that has to fix it, and chances are it's going to be 
 </div>
 <hr>
 
-## What is code
+<h1 align="center">What is code</h1>
 <p>
 Software and coding, in the simplest description possible, are a series of instructions that computers follow to produce certain results or to solve various problems. What programmers do is design and package those instructions for other people to be able to easily deploy and use on their own devices. From the user’s standpoint, as long as the software works, it doesn’t really matter how well it was written. 
 </p>
-<p>
-From the perspective of programmers, this sentiment can also be found, especially when dealing with code written by another programmer from years ago that all other code depends on, but no one on the current development team actually understands what it does or how it works. Consequently, workarounds and temporary fixes end up adding to this problem of [technical debt](https://www.ibm.com/think/topics/technical-debt). This is where coding standards come in as a tool to protect the accessibility of a codebase and enhance not only the development of a project but the experience of the people working on it too.
-</p>
 
-## Accessibility
+From the perspective of programmers, this sentiment can also be found, especially when dealing with code written by another programmer from years ago that all other code depends on, but no one on the current development team actually understands what it does or how it works. Consequently, workarounds and temporary fixes end up adding to this problem of [technical debt](https://www.ibm.com/think/topics/technical-debt). This is where coding standards come in as a tool to protect the accessibility of a codebase and enhance not only the development of a project but the experience of the people working on it too.
+
+
+<h1 align="center">Accessibility</h1>
 <p>
 Modern software and applications often involve dozens to hundreds of people working on their codebases, where collaboration between different teams and departments is required for a successful product. Communication is always a point of friction in any collaboration, but when dealing with code, effective communication starts before developers even need to speak face-to-face. 
 </p>
@@ -34,7 +34,7 @@ Modern software and applications often involve dozens to hundreds of people work
 Coding standards help ensure every module, class, and function built can be easily parsed by any developer working on the project. This can be achieved by setting guidelines and rules for naming variables, objects, constants, or methods, as well as file organization and error handling. Furthermore, when creating new classes, there can be a set of requirements that need to be met before they can be used by the other scripts in the project, in addition to the coding syntax standards. In a similar vein to writing professional emails, coding standards ensure developers are using proper English rather than slang or pidgin, thereby preventing the need to call on others to explain or translate.
 </p>
 
-## Efficiency and Career Development
+<h1 align="center">Efficiency and Career Development</h1>
 
 <div align="center">
   <img width="320px" src="../img/codingstandards/tech_debt_info_img.jpg">
@@ -54,7 +54,7 @@ With the highly competitive landscape of software engineering and the occasional
 
 <hr>
 
-## Lone Wolf Mentality
+<h1 align="center">Lone Wolf Mentality</h1>
 
 <div align="center">
   <img width="320px" src="../img/codingstandards/wolf_meme_img_wtext.png">
@@ -72,7 +72,7 @@ In a real commercial coding project, I could test and experiment with the functi
 
 <hr>
 
-## What to do
+<h1 align="center">What to do</h1>
 
 <div align="center">
   <img width="320px" src="../img/codingstandards/bad_habit_img.jpg">
