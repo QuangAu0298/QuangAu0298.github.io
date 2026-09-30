@@ -10,15 +10,19 @@ labels:
   - InteliJ IDEA
 summary: "A JavaScript project for an early ICS class, where a user can play through a randomly generated 6x6 Sudoku puzzle"
 ---
-
+<!-- 
 <div class="text-center p-5" align="center">
   <img width="200px" src="../img/project_imgs/sudoku_rules.webp" class="img-thumbnail" >
   <img width="200px" src="../img/project_imgs/sudoku_solved.png" class="img-thumbnail" >
 </div>
+-->
+
+![Sudoku 6x6 rules](../img/project_imgs/sudoku_rules.webp)
+![Sudoku Solution Example](../img/project_imgs/sudoku_solved.png)
 
 While classic Sudoku is 9x9, 6x6 Sudoku plays by the same rule, but with fewer numbers and on a smaller grid. 
 
-<hr>
+---
 Online and in newspapers, one will find countless Sudoku puzzles, most likely with predetermined solutions, however to keep 
   the coding simple, this 6x6 Sudoku project only checked whether a number inputted into a given slot was valid and not if it 
   fit a specific solution. As some who have played before it is possible for a number to adhere to all the rules but result 
@@ -39,5 +43,5 @@ What makes this project interesting besides how it allows that player to change 
   text like ASCII art, or on a more modern graphical interface with a grid of buttons that responded to user mouse 
   and keyboard inputs.
   
-<hr>
+---
 
