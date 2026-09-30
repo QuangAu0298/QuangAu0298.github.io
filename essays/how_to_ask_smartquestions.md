@@ -18,17 +18,20 @@ More likely than not you have come across at least one problem that you just did
 </div>
 <hr>
 -->
+
 ![Questioning Stock Image](../img/essay_imgs/questioning_img.jpg)
 
 ## What went wrong?
 
 One must remember that forums like Reddit or Stack Overflow are composed of other people who are generous enough to spend their time sharing their expertise on difficult subject matters to assist others lacking such knowledge. To ask a question that, in their mind, wastes their time or effort could likely be the reason why no helpful response has arrived. This is where knowing the etiquette and strategies to asking a question on sites like Stack Overflow becomes a vital toolkit. 
+
 <!-- 
 <div class="text-center p-5" align="center">
   <img width="250px" class="rounded float-start pe-4" src="../img/essay_imgs/stackoverflow.png">
 </div>
 <hr>
 -->
+
 ![Stack Overflow Logo](../img/essay_imgs/stackoverflow.png)
 
 
