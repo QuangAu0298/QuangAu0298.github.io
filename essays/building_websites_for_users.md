@@ -50,6 +50,7 @@ Optimizing a website to make visitors "stay longer and leave sooner" may seem co
 On a grander scale, knowledge is everywhere on the internet, and with so much being shared, people have a hard time discerning which articles are important to them. Search engines help users by providing an algorithmically curated list of websites that may interest them based on the keywords they search for. However, within those websites, people still need to parse through information to get to what they really want. Webpages, through the use of UI frameworks, can make this process easier for visitors in a similar way. By organizing information into separate pages, tabs, or panels consolidated under concise labels like “About Us,” “Store,” “Products,” and “Schedule with Us,” users can quickly skim through to get a basic idea of what those links contain, making navigation throughout a website straightforward. Instead of forcing people to read through a long essay, a webpage can divide paragraphs into smaller articles that link to each other through keywords, clear hyperlinks, or tabs on a navigation bar, ensuring less time is spent reading irrelevant material.
 
 ![Time is Money](../img/essay_imgs/time_is_money.jpg)
+
 Time is money, so reducing the work people must do to understand what they see on a webpage saves them time and makes for a much smoother and satisfying experience. In summary, web developers wielding UI frameworks can create a more effective webpage by building one that respects the user’s time. 
 
 ## AI; convenience with a consequence:
